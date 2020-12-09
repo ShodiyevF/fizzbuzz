@@ -63,20 +63,3 @@ img {
   background-color: transparent;
   margin-bottom: 12px;
 }
-
-
-.output-s {
-  width: 50%;
-  background-color: silver;
-  padding: 8px 10px;
-  border: 2px solid #000;
-  border-radius: 5px;
-  margin-bottom: 12px;
-}
-.output-v {
-  width: 50%;
-  background-color: silver;
-  padding: 8px 10px;
-  border: 2px solid #000;
-  border-radius: 5px;
-}
